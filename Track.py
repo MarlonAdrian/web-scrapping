@@ -11,10 +11,10 @@ from tweepy.streaming import StreamListener
 import json
 
 ###CREDENCIALES########################
-ckey = "6JlbmR28K45NF143FujQsRYpx"
-csecret = "C9nfUefWkj6itK2evwwsjUJ82ZruLRyEYottE4ENufnzcGIWVU"
-atoken = "1416063692450541569-B0PlwCVFYvN5RRwfznjM1KFah3U2pj"
-asecret = "fHaH2xOn1UWHaos75MhmkdBHdzZj6F6xHxA8yQLwekxpP"
+ckey = "-------------"
+csecret = "-------------"
+atoken = "-------------"
+asecret = "-------------"
 #####################################
 
 
